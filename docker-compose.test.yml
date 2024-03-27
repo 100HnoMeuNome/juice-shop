@@ -7,3 +7,7 @@ services:
   app:
     image: bkimminich/juice-shop:latest-amd64
     build: ./
+ 
+ secrets:
+   api_token: c6a40151a76a5f86887585xxxa55cf55
+ 
