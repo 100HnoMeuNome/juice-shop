@@ -1,0 +1,32 @@
+rulesets: 
+  - docker-best-practices           # ensure best practices are followed
+  - python-best-practices           # ensure best practices are followed
+  - python-code-style               # code-style enforcement for Python
+  - python-design                   # check basic design rules
+  - python-inclusive                # ensure that we use inclusive wording in our codebase
+  - python-security                 # ensure your Python code is safe and secure
+  - python-django                   # rules specific for Django
+  - python-flask                    # rules specific for Flask
+  - python-pandas                   # rules specific for Pandas
+  - javascript-best-practices       # ensure best practices are followed
+  - javascript-code-style           # code-style enforcement for JavaScript
+  - javascript-inclusive            # ensure that we use inclusive wording in our codebase
+  - javascript-common-security      # ensure your JavaScript code is safe and secure
+  - javascript-node-security        # rules specific for Node.js security
+  - javascript-express              # rules specific for express.js security
+  - javascript-aws                  # rules specific for aws sdk security
+  - javascript-browser-security     # rules specific for Web Browsers security
+  - jsx-react                       # rules specific for React
+  - typescript-best-practices       # ensure best practices are followed
+  - typescript-code-style           # code-style enforcement for TypeScript
+  - typescript-inclusive            # ensure that we use inclusive wording in our codebase
+  - typescript-common-security      # ensure your TypeScript code is safe and secure
+  - typescript-node-security        # rules specific for Node.js security
+  - typescript-express              # rules specific for express.js security
+  - typescript-aws                  # rules specific for aws sdk security
+  - typescript-browser-security     # rules specific for Web Browsers security
+  - tsx-react                       # rules specific for React
+  - java-best-practices             # ensure best practices are followed
+  - java-code-style                 # code-style enforcement for Java
+  - java-inclusive                  # ensure that we use inclusive wording in our codebase
+  - java-security                   # ensure your Java code is safe and secure
